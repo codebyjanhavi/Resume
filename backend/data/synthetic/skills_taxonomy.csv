@@ -1,0 +1,96 @@
+skill_name,category,aliases,weight
+Python,Programming Languages,py;python3,1.0
+Java,Programming Languages,core java;java 17;java 11;java 8,1.0
+JavaScript,Programming Languages,js;es6;vanilla js,1.0
+TypeScript,Programming Languages,ts,1.0
+C,Programming Languages,c lang,0.8
+C++,Programming Languages,cpp;cplusplus,0.9
+C#,Programming Languages,csharp;c sharp;.net c#,0.9
+Kotlin,Programming Languages,kotlin android,0.8
+Go,Programming Languages,golang,0.9
+PHP,Programming Languages,php7;php8,0.7
+SQL,Programming Languages,structured query language;ansi sql,1.0
+R,Programming Languages,r language;rstats,0.8
+Rust,Programming Languages,rustlang,0.8
+Scala,Programming Languages,scala lang,0.8
+Shell Scripting,Programming Languages,bash;sh;zsh;shell script,0.8
+Machine Learning,Machine Learning & Data Science,ml;machine-learning,1.0
+Deep Learning,Machine Learning & Data Science,dl;deep-learning;neural networks,1.0
+NLP,Machine Learning & Data Science,natural language processing;text mining,1.0
+Computer Vision,Machine Learning & Data Science,cv;image processing;vision ai,1.0
+TensorFlow,Machine Learning & Data Science,tf;tensorflow 2,0.9
+PyTorch,Machine Learning & Data Science,torch,0.9
+Scikit-learn,Machine Learning & Data Science,sklearn;scikit learn,0.9
+Pandas,Machine Learning & Data Science,pandas dataframe,0.8
+NumPy,Machine Learning & Data Science,numpy array,0.8
+Statistics,Machine Learning & Data Science,statistical modeling;hypothesis testing,0.9
+Data Visualization,Machine Learning & Data Science,data viz;matplotlib;seaborn,0.8
+Feature Engineering,Machine Learning & Data Science,feature extraction;feature selection,0.8
+Model Evaluation,Machine Learning & Data Science,validation metrics;roc-auc;cross-validation,0.8
+MLflow,Machine Learning & Data Science,mlflow tracking,0.8
+Keras,Machine Learning & Data Science,tf.keras,0.8
+OpenCV,Machine Learning & Data Science,computer vision cv2,0.8
+Hugging Face,Machine Learning & Data Science,transformers;huggingface,0.9
+LLMs,Machine Learning & Data Science,large language models;generative ai;genai,1.0
+LangChain,Machine Learning & Data Science,langchain framework,0.8
+Time Series Analysis,Machine Learning & Data Science,arima;forecasting,0.8
+A/B Testing,Machine Learning & Data Science,split testing;experimentation,0.8
+HTML,Web Development,html5;semantic html,0.7
+CSS,Web Development,css3;vanilla css;responsive css,0.7
+React,Web Development,react.js;reactjs,1.0
+Angular,Web Development,angular.js;angularjs;angular 14+,0.9
+Vue.js,Web Development,vue;vuejs;vue 3,0.8
+Node.js,Web Development,node;nodejs,1.0
+Express.js,Web Development,express;expressjs,0.8
+Flask,Web Development,flask framework;flask api,0.8
+Django,Web Development,django rest framework;drf,0.9
+FastAPI,Web Development,fastapi framework,0.9
+REST APIs,Web Development,restful api;restful web services;rest api,0.9
+GraphQL,Web Development,apollo graphql,0.8
+Next.js,Web Development,nextjs;next,0.9
+Redux,Web Development,redux toolkit;rtk,0.8
+Tailwind CSS,Web Development,tailwind;tailwindcss,0.8
+WebSockets,Web Development,socket.io;websocket,0.8
+MySQL,Databases,mysql server;mariadb,0.9
+PostgreSQL,Databases,postgres;pgsql,1.0
+SQLite,Databases,sqlite3,0.7
+MongoDB,Databases,mongo;nosql mongodb,0.9
+Redis,Databases,redis cache,0.8
+Cassandra,Databases,apache cassandra,0.8
+ElasticSearch,Databases,elasticsearch;elastic search;elk,0.8
+DynamoDB,Databases,aws dynamodb,0.8
+Database Design,Databases,schema design;normalization;data modeling,0.9
+Indexing & Optimization,Databases,query optimization;query tuning;db indexes,0.9
+ETL Pipelines,Databases,etl;extract transform load;data pipelines,0.9
+AWS,Cloud & DevOps,amazon web services;aws cloud,1.0
+Azure,Cloud & DevOps,microsoft azure,0.9
+Google Cloud,Cloud & DevOps,gcp;google cloud platform,0.9
+Docker,Cloud & DevOps,docker containers;dockerfile,1.0
+Kubernetes,Cloud & DevOps,k8s,1.0
+Linux,Cloud & DevOps,unix;ubuntu;centos;rhel;linux cli,0.9
+Git,Cloud & DevOps,git vcs;version control,0.9
+GitHub,Cloud & DevOps,github actions,0.8
+CI/CD,Cloud & DevOps,continuous integration;continuous deployment;jenkins pipeline,1.0
+Terraform,Cloud & DevOps,infrastructure as code;iac terraform,0.9
+Ansible,Cloud & DevOps,ansible automation,0.8
+Jenkins,Cloud & DevOps,jenkins ci,0.8
+Prometheus,Cloud & DevOps,prometheus monitoring,0.8
+Grafana,Cloud & DevOps,grafana dashboards,0.8
+Serverless,Cloud & DevOps,aws lambda;cloud functions,0.8
+Network Security,Cybersecurity,firewalls;vpn;network defense,1.0
+Ethical Hacking,Cybersecurity,white hat;penetration testing;pentesting,0.9
+OWASP,Cybersecurity,owasp top 10;web application security,1.0
+SIEM,Cybersecurity,splunk;qradar;security information event management,0.9
+Vulnerability Assessment,Cybersecurity,nessus;vulnerability scanning;cve,0.9
+Cryptography,Cybersecurity,pki;tls;encryption;hashing,0.9
+Incident Response,Cybersecurity,ir;threat containment;dfir,0.9
+Identity and Access Management,Cybersecurity,iam;rbac;oauth;saml,0.9
+Excel,Business & Analytics,ms excel;advanced excel;vlookup;pivot tables,0.8
+Power BI,Business & Analytics,powerbi;dax,1.0
+Tableau,Business & Analytics,tableau desktop,0.9
+Business Intelligence,Business & Analytics,bi;enterprise reporting,0.9
+Requirements Analysis,Business & Analytics,brd;functional specs;user stories,0.9
+Communication,Business & Analytics,stakeholder communication;presentation skills,0.8
+Agile,Business & Analytics,agile methodologies;scrum;sprints;kanban,0.8
+Project Management,Business & Analytics,jira;scope management,0.8
+Data Storytelling,Business & Analytics,executive presentations;kpi reporting,0.8

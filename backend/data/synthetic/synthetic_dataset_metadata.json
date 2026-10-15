@@ -1,0 +1,36 @@
+{
+  "dataset_name": "SkillSight AI Synthetic Benchmark Dataset",
+  "version": "1.0.0",
+  "random_seed": 42,
+  "is_synthetic": true,
+  "data_notice": "ALL DATA IN THIS DATASET IS COMPLETELY SYNTHETIC AND PROCEDURALLY GENERATED. NO REAL INDIVIDUALS, PROFILES, OR RESUMES ARE USED.",
+  "roles_count": 15,
+  "target_roles": [
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Data Analyst",
+    "Python Developer",
+    "Full Stack Developer",
+    "Frontend Developer",
+    "Backend Developer",
+    "Java Developer",
+    "DevOps Engineer",
+    "Cloud Engineer",
+    "Cybersecurity Analyst",
+    "Business Analyst",
+    "Software Engineer",
+    "AI Engineer",
+    "Database Administrator"
+  ],
+  "total_resumes": 5250,
+  "resumes_per_role": 350,
+  "total_job_descriptions": 1200,
+  "jds_per_role": 80,
+  "total_taxonomy_skills": 95,
+  "files": {
+    "synthetic_resumes": "synthetic_resumes.csv",
+    "synthetic_job_descriptions": "synthetic_job_descriptions.csv",
+    "role_skill_requirements": "role_skill_requirements.csv",
+    "skills_taxonomy": "skills_taxonomy.csv"
+  }
+}
